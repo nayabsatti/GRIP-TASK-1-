@@ -1,1 +1,1 @@
-# GRIP-TASK-1-
+# GRIP-TASK-1
